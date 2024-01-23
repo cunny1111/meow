@@ -1,4 +1,5 @@
-***List bao gồm các link diễn giải chi tiết về các chủ đề có trong cấu trúc đề thi chọn học sinh giỏi cấp tỉnh THPT, một số bao gồm thêm các bình luận về chủ đề. Một số thuật toán/Cấu trúc dữ liệu quá phức tạp và có thể bị thay thế bởi phiên bản nhẹ hơn có thể không cần phải học đến.***
+***List bao gồm các link diễn giải chi tiết về các chủ đề có trong cấu trúc đề thi chọn học sinh giỏi cấp tỉnh THPT.
+Có bao gồm thêm các bình luận cho các chủ đề. Một số thuật toán/Cấu trúc dữ liệu quá phức tạp và có thể bị thay thế bởi phiên bản nhẹ hơn có thể không cần phải học đến.***
 
 ***==Listed by Zawajiro / Vu Huy Cuong==***
 ‎‎‎‎‎‎‎‎
